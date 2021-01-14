@@ -1,0 +1,13 @@
+C:\Users\kenny\source\repos\NewClocky\bin\Debug\NewClocky.exe.config
+C:\Users\kenny\source\repos\NewClocky\bin\Debug\NewClocky.exe
+C:\Users\kenny\source\repos\NewClocky\bin\Debug\NewClocky.pdb
+C:\Users\kenny\source\repos\NewClocky\obj\Debug\NewClocky.csprojAssemblyReference.cache
+C:\Users\kenny\source\repos\NewClocky\obj\Debug\NewClocky.frmClock.resources
+C:\Users\kenny\source\repos\NewClocky\obj\Debug\NewClocky.Properties.Resources.resources
+C:\Users\kenny\source\repos\NewClocky\obj\Debug\NewClocky.csproj.GenerateResource.cache
+C:\Users\kenny\source\repos\NewClocky\obj\Debug\NewClocky.csproj.CoreCompileInputs.cache
+C:\Users\kenny\source\repos\NewClocky\obj\Debug\NewClocky.exe
+C:\Users\kenny\source\repos\NewClocky\obj\Debug\NewClocky.pdb
+C:\Users\kenny\source\repos\NewClocky\bin\Debug\nl-NL\NewClocky.resources.dll
+C:\Users\kenny\source\repos\NewClocky\obj\Debug\NewClocky.frmClock.nl-NL.resources
+C:\Users\kenny\source\repos\NewClocky\obj\Debug\nl-NL\NewClocky.resources.dll
